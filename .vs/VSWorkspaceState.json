@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SauceDemoAutomationWithSpecflow",
+    "\\SauceDemoAutomationWithSpecflow\\EnumsPackage",
+    "\\SauceDemoAutomationWithSpecflow\\Features",
+    "\\SauceDemoAutomationWithSpecflow\\StepDefinitions"
+  ],
+  "SelectedNode": "\\SauceDemoAutomationWithSpecflow\\Features\\CartPage.feature",
+  "PreviewInSolutionExplorer": false
+}
